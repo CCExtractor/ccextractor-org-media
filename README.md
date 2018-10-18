@@ -11,3 +11,7 @@ If you will be scaling the logo, use the provided vector to avoid losing sharpne
 The `resources` folder contains some of the design components used.
 - `color-swatches` contains the color swatch used in Photoshop and Illustrator format.
 - `pixel_perfect_typeface` is the typeface used in .ai format (to avoid quality loss it hasn't been made into a font file).
+
+## Concept
+The aim was to come up with something that captured everything the organization stood for and did. The pre-existing CC logo which represented Closed Captions was a bit restricting. <br>
+The current logo solves that by visualizing CCExtractor in the design, we see the video going in and the subtitles file coming out.
