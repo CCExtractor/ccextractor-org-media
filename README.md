@@ -3,6 +3,7 @@ Contains all graphic media related to CCExtractor.
 - `static` folder holds the images themselves which can be directly used.
 - `src` contains the source files for all the images in .ai Illustrator format.
 - `ext` contains all the extra, external media to be served directly for various purposes (READMEs, blogs, etc.).
+- `3D logos` contains files for the 3D version of the organization logo.
 
 ## Usage
 - If you're going to use the logo as it is, it would be a good idea to use the images from the `static` folder. <br>
