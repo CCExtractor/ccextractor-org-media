@@ -1,3 +1,6 @@
+<img src="https://github.com/CCExtractor/ccextractor-org-media/blob/master/static/ccx_logo_transparent_800x600.png" alt="CCExtractor Development" height=200px>
+
+
 # ccextractor-org-media
 Contains all graphic media related to CCExtractor.
 - `static` folder holds the images themselves which can be directly used.
